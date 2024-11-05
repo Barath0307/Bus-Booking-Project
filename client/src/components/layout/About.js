@@ -147,7 +147,7 @@ const about = () => {
       </section>
       <section className="footer bg-dark">
         <div className="container py-5 text-white text-center">
-          <p>Copyright © 2021 - BarathVerse Pvt Ltd.</p>
+          <p>Copyright © 2024 - BarathVerse Pvt Ltd.</p>
         </div>
       </section>
 
